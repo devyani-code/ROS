@@ -1,5 +1,2 @@
-
 type: "position_controllers/JointPositionController"
-joint: rod_cylin
-
-
+joint: lazRot
